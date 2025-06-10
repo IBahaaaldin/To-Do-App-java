@@ -103,7 +103,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Check out the Python version of this project:**  
 👉 [To-Do App (Python)](https://github.com/IBahaaaldin/To-Do-App-python)
-👉 [GPA-Calculator (Java)](https://github.com/IBahaaaldin/GPA-Calculator-java)
 
 ---
 
